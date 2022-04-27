@@ -190,7 +190,7 @@ export default class App extends Component {
             />
             <RoundButton
               title="Resume"
-              color="#50D167"
+              color="#FFFFFF"
               background="#1B361F"
               onPress={this.resume}
             />
